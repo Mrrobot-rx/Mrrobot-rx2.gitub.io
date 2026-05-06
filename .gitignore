@@ -1,0 +1,6 @@
+# Fichiers générés par l'OS et les éditeurs
+.DS_Store
+*.swp
+
+# Dépendances
+node_modules/
